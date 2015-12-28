@@ -72,5 +72,7 @@ our $scenario = {
 
 =head1 SYNOPSIS
 
+ % bencher -m SortBySpec ...
+
 
 =head1 DESCRIPTION
