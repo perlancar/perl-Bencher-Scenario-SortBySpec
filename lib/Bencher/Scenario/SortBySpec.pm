@@ -69,10 +69,3 @@ our $scenario = {
 
 1;
 # ABSTRACT:
-
-=head1 SYNOPSIS
-
- % bencher -m SortBySpec ...
-
-
-=head1 DESCRIPTION
